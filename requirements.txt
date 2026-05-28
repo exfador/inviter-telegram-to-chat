@@ -1,0 +1,4 @@
+pyrogram==2.0.106
+TgCrypto==1.2.5
+colorama==0.4.6
+python-socks[asyncio]==2.5.1
