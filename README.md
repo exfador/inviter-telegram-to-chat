@@ -1,16 +1,4 @@
-<div align="center">
 
-```
-███████╗██╗  ██╗███████╗ █████╗ ██████╗  ██████╗ ██████╗
-██╔════╝╚██╗██╔╝██╔════╝██╔══██╗██╔══██╗██╔═══██╗██╔══██╗
-█████╗   ╚███╔╝ █████╗  ███████║██║  ██║██║   ██║██████╔╝
-██╔══╝   ██╔██╗ ██╔══╝  ██╔══██║██║  ██║██║   ██║██╔══██╗
-███████╗██╔╝ ██╗██║     ██║  ██║██████╔╝╚██████╔╝██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-                  i n v i t e r   ·   t g
-```
-
-### Async multi-account Telegram inviter on Pyrogram 2.x
 
 [![Python](https://img.shields.io/badge/python-3.11+-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 [![Pyrogram](https://img.shields.io/badge/Pyrogram-2.0-1c93e3?style=for-the-badge)](https://docs.pyrogram.org/)
